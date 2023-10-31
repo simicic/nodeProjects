@@ -1,0 +1,11 @@
+{
+  "name": "basicserver",
+  "version": "1.0.0",
+  "description": "Very simple server implementation",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Martina Simicic",
+  "license": "ISC"
+}
